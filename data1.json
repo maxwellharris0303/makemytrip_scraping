@@ -1,0 +1,18 @@
+{
+  "@context": "http://schema.org",
+  "url": "https://www.booking.com/hotel/aw/ana-amp-doras-residence.html",
+  "priceRange": "Prices for upcoming dates start at € 67 per night (We Price Match)",
+  "name": "ANA & DORA’S RESIDENCE",
+  "address": {
+    "addressCountry": "Aruba",
+    "streetAddress": "10 Hooiberg, Oranjestad, Aruba",
+    "addressLocality": "10 Hooiberg",
+    "@type": "PostalAddress",
+    "postalCode": "",
+    "addressRegion": ""
+  },
+  "@type": "Hotel",
+  "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=12.5224490,-69.9957573&sensor=false&markers=color:blue%7c12.5224490,-69.9957573&size=1600x1200&zoom=15&client=gme-booking&channel=booking-frontend&signature=SB8_M4pEDcH874i4NPbxQnpMMY0=",
+  "description": "ANA & DORA’S RESIDENCE, a property with a garden, is located in Oranjestad, 7.5 miles from Tierra del Sol Golf Course.",
+  "image": "https://cf2.bstatic.com/xdata/images/hotel/max500/500898715.jpg?k=0a44cc61b94505584a75d7cf1acefe361b167637bb507cace32c44b7d67eae37&o=&hp=1"
+}
